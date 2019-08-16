@@ -6,4 +6,4 @@ created dataset on these image patches based on glcm features
 # Model Evaluation 
 applied various classification models on the dataset and results were graphically plotted
 # performance chart
-![alt text](http://url/to/fingerprint_performance.png)
+![alt text](https://github.com/Arjun-Arvindakshan/fingerprint-machine-learning-model-evaluation/blob/master/fingerprint_performance.png)
